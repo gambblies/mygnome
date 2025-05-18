@@ -1,0 +1,13 @@
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+media-fonts/font-bh-ttf bh-luxi
+x11-drivers/nvidia-drivers NVIDIA-r2
+
+www-client/google-chrome google-chrome
+app-office/softmaker-office SoftMakerOffice
+app-admin/winbox MikroTik
+app-editors/vscode Microsoft-vscode
+app-editors/typora typora
+app-text/master-pdf-editor master-pdf-editor
+app-office/wps-office WPS-EULA
+app-emulation/crossover-bin CROSSOVER-3
+x11-misc/albert all-rights-reserved
